@@ -33,13 +33,26 @@ $ faceext
 
 Your face with gray color background will be popped on the screen.
 
-There are three background colors: black, gray, and white color.
+There are three background colors: black "-B", gray "-G", and white color "-W".
+The default background color is gray.
+
+$ faceext -G
+
+You can add a message or name on the crafted image.
+
+$ faceext -B yoshi
+
+or
+
+$ faceext -W yoshiyasu takefuji
 
 Run OBS studio and select the popped image as source.
 
 Then press the "start virtual camera" button in OBS studio.
 
 Run any remote meeting application and select OBS virtual camera in video source selection.
+
+That is all.
 
 
 
