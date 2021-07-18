@@ -11,7 +11,7 @@ with superimposed monotonous background can be fed to remote meeting application
 Remote meeting applicaions including Zoom, WebEx, and Google meet
 were successfully tested.
 
-
+Python3.7 or Python3.8 is recommended.
 
 # How to install faceext
 
