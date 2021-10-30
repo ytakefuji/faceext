@@ -1,4 +1,6 @@
 # faceext
+This is under review.
+
 This is a faceext Python software for hiding all of your clothes and 
 background except your face.
 faceext.py is based on two state-of-the-art libraries including 
