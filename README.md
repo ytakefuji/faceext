@@ -8,7 +8,7 @@ mediapipe library for segmenting a face from the original image and
 opencv library for superimposing faces and monotonous backgrounds 
 (black, white, or gray). 
 
-faceext has been downloaded by 2036 users worldwide.
+faceext has been downloaded by 2522 users worldwide.
 
 OBS studio can play a virtual camera so that the crafted image of extracted face
 with superimposed monotonous background can be fed to remote meeting applications.
