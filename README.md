@@ -32,6 +32,8 @@ Finally install faceext
 
 $ pip install faceext
 
+$ pip install faceext --force-reinstall --no-cache-dir --no-binary :all:
+
 # How to run faceext
 Run faceext.
 
